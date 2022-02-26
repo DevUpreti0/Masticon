@@ -39,6 +39,13 @@ let track_list = [
     image: "https://cdn.discordapp.com/attachments/897754580035719219/944418096020594748/MastiCon_Icon.png",
     path: "https://cdn.discordapp.com/attachments/933567614310027336/944418341756493854/Awara_Hoon_Remix.mp3",
   },
+  {
+    name: "Excuses",
+    artist: "AP DHILLON & Gurinder Gill",
+    image: "https://cdn.discordapp.com/attachments/933567614310027336/947071397849612368/1164313.jpg",
+    path: "https://cdn.discordapp.com/attachments/933567614310027336/947071744609505280/Kehndi_Hundi_Si.mp3",
+  },
+  
 ];
 
 function random_bg_color() {
