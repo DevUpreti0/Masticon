@@ -21,17 +21,18 @@ let curr_track = document.createElement('audio');
 
 // Define the tracks that have to be played
 let track_list = [
-  {
-    name: "Street Talk",
-    artist: "Emiway Bantai",
-    image: "https://cdn.discordapp.com/attachments/782481491187728414/923810415794876426/street-talk-lyrics-emiway-bantai.jpg",
-    path: "https://cdn.discordapp.com/attachments/933567614310027336/944416177231388682/Street_Talk_-_Emiway_Bantai_320-.mp3"
-  },
+  
   {
     name: "Libaas",
     artist: "KAKA",
     image: "https://www.lyricsia.com/resources/images/Libaas-300-2020.jpg",
     path: "https://cdn.discordapp.com/attachments/933567614310027336/944416957401268224/Kale_Je_Libaas_Di_-_Kaka.mp3"
+  },
+  {
+    name: "Street Talk",
+    artist: "Emiway Bantai",
+    image: "https://cdn.discordapp.com/attachments/782481491187728414/923810415794876426/street-talk-lyrics-emiway-bantai.jpg",
+    path: "https://cdn.discordapp.com/attachments/933567614310027336/944416177231388682/Street_Talk_-_Emiway_Bantai_320-.mp3"
   },
   {
     name: "Awaara Hoon (REMIX)",
@@ -44,6 +45,12 @@ let track_list = [
     artist: "AP DHILLON & Gurinder Gill",
     image: "https://cdn.discordapp.com/attachments/933567614310027336/947071397849612368/1164313.jpg",
     path: "https://cdn.discordapp.com/attachments/933567614310027336/947071744609505280/Kehndi_Hundi_Si.mp3",
+  },
+  {
+    name: "Kaha Par Hu",
+    artist: "Emiway Bantai",
+    image: "https://cdn.discordapp.com/attachments/933567614310027336/947073244173852792/Screenshot_2022-02-23_183323.png",
+    path: "https://cdn.discordapp.com/attachments/933567614310027336/947073347320176660/Kaha_Par_Hu.mp3",
   },
   
 ];
