@@ -52,6 +52,12 @@ let track_list = [
     image: "https://cdn.discordapp.com/attachments/933567614310027336/947073244173852792/Screenshot_2022-02-23_183323.png",
     path: "https://cdn.discordapp.com/attachments/933567614310027336/947073347320176660/Kaha_Par_Hu.mp3",
   },
+   {
+    name: "Chusamba",
+    artist: "Emiway Bantai",
+    image: "https://cdn.discordapp.com/attachments/933567614310027336/959847357757939802/Screenshot_2022-04-02_213937.png",
+    path: "https://cdn.discordapp.com/attachments/933567614310027336/959847548749754378/Emiway_-_Chusamba.mp3",
+  },
   
 ];
 
