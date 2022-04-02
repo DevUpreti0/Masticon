@@ -55,7 +55,7 @@ let track_list = [
    {
     name: "Chusamba",
     artist: "Emiway Bantai",
-    image: "https://cdn.discordapp.com/attachments/933567614310027336/959847357757939802/Screenshot_2022-04-02_213937.png",
+    image: "https://cdn.discordapp.com/attachments/933567614310027336/959847964824723519/Screenshot_2022-04-02_s.png",
     path: "https://cdn.discordapp.com/attachments/933567614310027336/959847548749754378/Emiway_-_Chusamba.mp3",
   },
   
