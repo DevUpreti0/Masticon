@@ -23,6 +23,12 @@ let curr_track = document.createElement('audio');
 let track_list = [
   
   {
+    name: "Choco",
+    artist: "Emiway Bantai",
+    image: "https://cdn.discordapp.com/attachments/933567614310027336/976385525957140490/Screenshot_2022-05-18_125659.png",
+    path: "https://cdn.discordapp.com/attachments/933567614310027336/976386001184391168/Choco_-_Emiway_Bantai.mp3"
+  },
+  {
     name: "Libaas",
     artist: "KAKA",
     image: "https://www.lyricsia.com/resources/images/Libaas-300-2020.jpg",
