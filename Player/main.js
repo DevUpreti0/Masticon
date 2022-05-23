@@ -23,6 +23,12 @@ let curr_track = document.createElement('audio');
 let track_list = [
   
   {
+    name: "Mehabooba",
+    artist: "KGF CHAPTER 2",
+    image: "https://cdn.discordapp.com/attachments/933567614310027336/978166651461701642/Mehabooba-Malayalam-KGF-Chapter-2-mp3-image.jpg",
+    path: "https://pagalbhai.com/music/files/Mehabooba%20128%20Kbps.mp3"
+  },
+  {
     name: "Choco",
     artist: "Emiway Bantai",
     image: "https://cdn.discordapp.com/attachments/933567614310027336/976385525957140490/Screenshot_2022-05-18_125659.png",
