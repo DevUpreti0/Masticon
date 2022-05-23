@@ -22,7 +22,12 @@ let curr_track = document.createElement('audio');
 // Define the tracks that have to be played
 let track_list = [
   
-  
+   {
+    name: "SULTHAN",
+    artist: "KGF CHAPTER 2",
+    image: "https://cdn.discordapp.com/attachments/933567614310027336/978170676986912798/OIP.jpg",
+    path: "https://pagalbhai.com/music/files/Sulthan%20128%20Kbps.mp3"
+  },
   {
     name: "TOOFAN",
     artist: "KGF CHAPTER 2",
