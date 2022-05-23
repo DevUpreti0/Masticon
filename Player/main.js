@@ -22,6 +22,13 @@ let curr_track = document.createElement('audio');
 // Define the tracks that have to be played
 let track_list = [
   
+  
+  {
+    name: "TOOFAN",
+    artist: "KGF CHAPTER 2",
+    image: "https://cdn.discordapp.com/attachments/933567614310027336/978169868010545172/Toofan-Lyrical-Hindi-KGF-Chapter-2-2022-Video-Song-1080p-HDRip-Download.jpg",
+    path: "https://pagalbhai.com/music/files/Toofan%20128%20Kbps.mp3"
+  },
   {
     name: "Mehabooba",
     artist: "KGF CHAPTER 2",
