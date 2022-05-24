@@ -29,6 +29,12 @@ let track_list = [
     path: "https://pagalbhai.com/music/files/Sulthan%20128%20Kbps.mp3"
   },
   {
+    name: "VOODOO",
+    artist: "BADSHAH",
+    image: "https://m.media-amazon.com/images/I/618qi7vjceL._UXNaN_FMjpg_QL85_.jpg",
+    path: "https://pagalbhai.com/music/files/Voodoo%20128%20Kbps.mp3"
+  },
+  {
     name: "TOOFAN",
     artist: "KGF CHAPTER 2",
     image: "https://cdn.discordapp.com/attachments/933567614310027336/978169868010545172/Toofan-Lyrical-Hindi-KGF-Chapter-2-2022-Video-Song-1080p-HDRip-Download.jpg",
