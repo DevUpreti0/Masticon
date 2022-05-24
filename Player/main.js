@@ -22,6 +22,13 @@ let curr_track = document.createElement('audio');
 // Define the tracks that have to be played
 let track_list = [
   
+  
+  {
+    name: "Beast Mode",
+    artist: "RAW-BEAST",
+    image: "https://cdn.discordapp.com/attachments/933567614310027336/978588558120062976/thumb_fan_girl_tnvfc_1624323493238649-8196203483.jpg",
+    path: "https://lyricszen.com/wp-content/uploads/2022/04/beast-mode-mp3-song-download.mp3"
+   },
   {
     name: "Halamithi Habibo",
     artist: "RAW-BEAST",
