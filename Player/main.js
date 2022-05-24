@@ -25,7 +25,7 @@ let track_list = [
    {
     name: "Halamithi Habibo",
     artist: "RAW-BEAST,
-    image: "https://m.media-amazon.com/images/I/51nWOcOjxjL._UXNaN_FMjpg_QL85_.jpg",
+    image: "https://cdn.discordapp.com/attachments/933567614310027336/978588558120062976/thumb_fan_girl_tnvfc_1624323493238649-8196203483.jpg",
     path: "https://pwdown.com/113627/Halamithi%20Habibo%20Hindi%20-%20Beast.mp3"
    },
    {
