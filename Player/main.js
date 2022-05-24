@@ -22,9 +22,9 @@ let curr_track = document.createElement('audio');
 // Define the tracks that have to be played
 let track_list = [
   
-   {
+  {
     name: "Halamithi Habibo",
-    artist: "RAW-BEAST,
+    artist: "RAW-BEAST",
     image: "https://cdn.discordapp.com/attachments/933567614310027336/978588558120062976/thumb_fan_girl_tnvfc_1624323493238649-8196203483.jpg",
     path: "https://pwdown.com/113627/Halamithi%20Habibo%20Hindi%20-%20Beast.mp3"
    },
@@ -40,6 +40,7 @@ let track_list = [
     image: "https://m.media-amazon.com/images/I/618qi7vjceL._UXNaN_FMjpg_QL85_.jpg",
     path: "https://pagalbhai.com/music/files/Voodoo%20128%20Kbps.mp3"
   },
+   
   {
     name: "TOOFAN",
     artist: "KGF CHAPTER 2",
