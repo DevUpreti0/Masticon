@@ -22,7 +22,12 @@ let curr_track = document.createElement('audio');
 // Define the tracks that have to be played
 let track_list = [
   
-  
+  {
+    name: "295",
+    artist: "Sidhu Moose Wala (RIP)",
+    image: "https://www.pagalworld.pw/GpE34Kg9Gq/113543/145671-295-sidhu-moose-wala-mp3-song-300.jpg",
+    path: "https://pwdown.com/113543/295%20-%20Sidhu%20Moose%20Wala.mp3"
+   },
   {
     name: "Beast Mode",
     artist: "RAW-BEAST",
