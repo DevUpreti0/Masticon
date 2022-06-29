@@ -23,6 +23,13 @@ let curr_track = document.createElement('audio');
 let track_list = [
   
   {
+    name: "Tibbeyan Da Putt",
+    artist: "Sidhu Moose Wala (RIP)",
+    image: "https://a10.gaanacdn.com/images/albums/75/3077675/crop_480x480_1584426072_3077675.jpg",
+    path: "https://cdn.discordapp.com/attachments/990126542652841984/991620421109678180/Tibbeyan_Da_Putt_-_Sidhu_Moose_Wala.mp3"
+   },
+  
+  {
     name: "295",
     artist: "Sidhu Moose Wala (RIP)",
     image: "https://www.pagalworld.pw/GpE34Kg9Gq/113543/145671-295-sidhu-moose-wala-mp3-song-300.jpg",
