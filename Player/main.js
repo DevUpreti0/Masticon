@@ -25,7 +25,7 @@ let track_list = [
     {
     name: "Jhoota",
     artist: "Emiway Bantai X Celina Sharma",
-    image: "https://cdn.discordapp.com/attachments/990126542652841984/992455859605082182/download.jpg",
+    image: "https://cdn.discordapp.com/attachments/990126542652841984/992457538840830012/Dark_Red_and_White_Modern_Typography_Automotive_Logo.png",
     path: "https://cdn.discordapp.com/attachments/990126542652841984/992455859030466600/Jhoota_-_Emiway_Bantai.mp3"
    },
   
