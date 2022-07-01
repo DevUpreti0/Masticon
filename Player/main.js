@@ -22,6 +22,13 @@ let curr_track = document.createElement('audio');
 // Define the tracks that have to be played
 let track_list = [
   
+    {
+    name: "Jhoota",
+    artist: "Emiway Bantai X Celina Sharma",
+    image: "https://cdn.discordapp.com/attachments/990126542652841984/992455859605082182/download.jpg",
+    path: "https://cdn.discordapp.com/attachments/990126542652841984/992455859030466600/Jhoota_-_Emiway_Bantai.mp3"
+   },
+  
   {
     name: "Tibbeyan Da Putt",
     artist: "Sidhu Moose Wala (RIP)",
