@@ -22,6 +22,13 @@ let curr_track = document.createElement('audio');
 // Define the tracks that have to be played
 let track_list = [
   
+   {
+    name: "Levels",
+    artist: "Sidhu Moose Wala",
+    image: "https://images.genius.com/53d7c0aee98f0690968cc549d33d8117.1000x1000x1.jpg",
+    path: "https://cdn.discordapp.com/attachments/990126542652841984/992803681898594336/Levels_-_Sidhu_Moose_Wala.mp3"
+   },
+  
     {
     name: "Jhoota",
     artist: "Emiway Bantai X Celina Sharma",
